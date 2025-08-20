@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Anushka-egg)](https://git.io/streak-stats)
+(https://streak-stats.demolab.com/?user=Anushka-egg)](https://git.io/streak-stats)
 👋 Hi, I’m @Anushka-engg
 - 👀 I’m interested in technology, coding, and innovation.
 - 🌱 Translating data into Actionable Insight.
