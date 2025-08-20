@@ -1,10 +1,4 @@
-👋 Hi, I’m @Anushka-engg
-- 👀 I’m interested in technology, coding, and innovation.
-- 🌱 Translating data into Actionable Insight.
-- 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
-- 📫 How to reach me: Anushkasarkar773@gmail.com
-- ⚡ Learning to turn data into decisions
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anushka-egg&theme=tokyonight)](https://git.io/streak-stats)
 
 <!---
 Anushka-engg/Anushka-engg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
